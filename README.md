@@ -1,5 +1,5 @@
 ## DATA
-Data is webscraped from sahibinden.com. The column names are brand name, model, KM, model year, engine type and fuel type.There are 63 car brands in my data.
+Data is webscraped from sahibinden.com. The column names are brand name, model, KM, model year, engine type and fuel type.There are 63 unique car brands in my data.
 
 ##
 MODELS USED 
